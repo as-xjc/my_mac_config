@@ -1,0 +1,21 @@
+[user]
+	email = AzureSky.xjc@gmail.com
+	name = xiao jian cheng
+
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+
+[color]
+	diff = auto
+	status = auto
+
+[merge]
+	tool = vimdiff
+
+[mergetool]
+	prompt = false
+
+[pull]
+	rebase = true
